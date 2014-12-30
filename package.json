@@ -1,0 +1,8 @@
+{
+  "name": "IKDDhw5",
+  "version": "0.0.1",
+  "dependencies": {
+    "brain": "0.7.0",
+    "csv": "0.4.1"
+  }
+}
